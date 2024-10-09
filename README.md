@@ -36,5 +36,5 @@ Answer 2
 
 ## Screenshots
 
-![screenshot1](./screenshots/screen.jpg)
+![screenshot1](./screenshots/screen1.jpg)
 
